@@ -1,4 +1,4 @@
-// "Hello World" com c++ no arduino
+// C++ code
 //
 void setup()
 {

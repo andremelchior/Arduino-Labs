@@ -1,4 +1,4 @@
-// código para fazer um "semáforo" com leds
+// C++ code
 //
 void setup()
 {
